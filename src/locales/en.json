@@ -1,0 +1,183 @@
+{
+  "header": {
+    "title": "AZ Machinery - French quality",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "features": "Facts",
+    "gallery": "Gallery",
+    "counts": "Facts"
+  },
+  "hero": {
+    "title": {
+      "start": "Loading technology for your ",
+      "end": "needs"
+    },
+    "box": {
+      "title": "Get quotes for ramps",
+      "choices": {
+        "choice_ramp": "Choice of ramps",
+        "choice_platform": "Choice of platforms",
+        "choice_measurement": "Made to measure"
+      },
+      "button": "CONTINUE",
+      "badges": {
+        "approx_time": "approx. 2 min.",
+        "reviews": "4.9 stars from 55 reviews",
+        "last_requests_one": "Last requests ",
+        "last_requests_two": " min. ago",
+        "requests_today": "236 requests today"
+      },
+      "error_message": "Please select at least one option"
+    }
+  },
+  "modal": {
+    "title": "Complete Your Information",
+    "close-button": "Leave"
+  },
+  "about": {
+    "title": "AZ Machinery your reliable partner for loading technology",
+    "description": "AZ Machinery is the leading manufacturer of loading equipment in Europe. We offer a comprehensive range of loading ramps, platforms, storage and attachment equipment to suit all requirements.",
+    "box1Title": "Your specialist for individual charging solutions",
+    "box1Description": "We offer you a comprehensive selection of loading solutions that we individually adapt to your needs. Whether loading ramps, platforms, storage or attachment equipment - we will find the perfect solution for you.",
+    "box2Title": "Our products are manufactured in our own production in Europe",
+    "box2Description": "We attach great importance to safety and efficiency so that you can load and unload your goods safely and efficiently.",
+    "box3Title": "Delivery throughout Europe",
+    "box3Description": "We deliver our products throughout Europe and offer a comprehensive service. Our experts will be happy to advise you and find the optimal solution for your needs."
+  },
+  "features": {
+    "title": "Check all the benefits",
+    "subTitle": "Product Information",
+    "box1Title": "Fast Delivery",
+    "box2Title": "Worth the price",
+    "box3Title": "Quick Reply",
+    "box4Title": "Own alloys",
+    "box5Title": "Rent possible",
+    "box6Title": "Professional Team",
+    "box7Title": "Largest selection",
+    "box8Title": "Best Quality"    
+  },
+  "gallery": {
+    "title": "Range champion",
+    "subTitle": "Let our selection surprise you"
+  },
+  "count": {
+    "title1": "Satisfied Customers",
+    "title2": "Ongoing Projects",
+    "title3": "Years of experience",
+    "title4": "Employee"
+  },
+  "contact": {
+    "title": "Regional contact",
+    "subTitle": "Personal advice and support",
+    "label": {
+      "place": "Place:",
+      "phone": "Phone:",
+      "email": "E-mail:"
+    },
+    "address": "10 Downing Street, London SW1A 2AA, United Kingdom",
+    "email": "Marketing United Kingdom",
+    "number": "+44 20 7925 1000",
+    "form": {
+      "label": {
+          "place": "Place",
+          "phone": "Phone",
+          "email": "Email"
+      },
+      "placeholder": {
+          "name": "Your name",
+          "email": "Your email",
+          "subject": "Subject",
+          "message": "Message",
+          "send": "Send message"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Copyright © 2024 AZ Machinery. All rights reserved.",
+    "headquarter": {
+      "name": "AZ Machinery",
+      "title": "Headquarters",
+      "description": "We specialize in the development, manufacturing, sale, and rental of loading equipment.",
+      "address": {
+        "street": "13 rue de la scierie ",
+        "zip": "66340 Palau de cerdagne, ",
+        "country": "France",
+        "phoneLabel": "Phone: ",
+        "phone": "+33 03 52 74 03 69",
+        "emailLabel": "Email: ",
+        "email": "contact[at]az-machinery.com"
+      }
+    },
+    "links": {
+      "title": "Links",
+      "about": "About",
+      "features": "Features",
+      "imprint": "Imprint",
+      "privacy": "Protection"
+    },
+    "service": {
+      "title": "Our services",
+      "customMade": "Custom Made",
+      "delivery": "Whole europe",
+      "production": "Own production",
+      "warranty": "5 year warranty",
+      "rental": "Rental possible"
+    },
+    "newsletter": {
+      "title": "Subscribe to our newsletter.",
+      "description": "Stay informed about our latest products, offers and events.",
+      "button": "Subscribe"
+    }
+  },
+  "cookiebanner": {
+    "title": "But first, cookies!",
+    "description": "We use cookies to remember your preferences, show you relevant content, and make your AZ Machinery experience smoother. By using AZ Machinery, you agree to our ",
+    "policyLink": "Privacy Policy.",
+    "policyLinkAdon": "",
+    "buttonAllow": "Allow all cookies",
+    "buttonDisallow": "Reject all cookies",
+    "buttonManageCookies": "Manage cookies",
+    "manage": {
+      "title": "Cookie settings",
+      "necessary_title": "Necessary",
+      "necessary_description": "Essential cookies ensure basic website functions like navigation and security access.",
+      "preferences_title": "Preferences",
+      "preferences_description": "Preference cookies remember data affecting website behavior, like language or region.",
+      "statistics_title": "Statistics",
+      "statistics_description": "Statistics cookies anonymously collect data to help website owners understand visitor interactions.",
+      "marketing_title": "Marketing",
+      "marketing_description": "Marketing cookies track website visitors to display relevant, engaging ads, valuable for publishers and advertisers.",
+      "buttonAllow": "Allow all cookies",
+      "buttonDisallow": "Reject all cookies",
+      "buttonAccept": "Accept settings"
+    }
+  },
+  "policybanner": {
+    "title": "Privacy Policy",
+    "title_01": "1. Company and Data Protection Officer",
+    "content_01": "This Privacy Policy applies to the website verladerampenprofi.de, operated by AZ Machinery.",
+    "title_company_contact": "Company contact",
+    "company_contact_data": "AZ MACHINERY FRANCE: 13 rue de la scierie - 66 340 PALAU DE CERDAGNE . France, Tel : (+33) 03 52 74 03 69, Company ID : 824 654 958 000 19, TVA : FR62 824 654 958",
+    "title_02": "2. Data Collection and Use",
+    "title_02_01": "2.1 General",
+    "content_02_01": "We collect and use personal data only to the extent necessary to provide a functional website, our content and services, and to answer user inquiries.",
+    "title_02_02": "2.2Access Data/Server Log Files",
+    "content_02_02": "When you access our website, information is automatically stored in server log files, which your browser transmits to us. This data includes: (Browser type and version, Operating system used, Referrer URL (previously visited page), Hostname of the accessing computer (e.g., your IP address), Time of server request)",
+    "content_02_02_addon": "This data is not used to identify individuals, but only for statistical purposes to analyze and improve the use of our website.",
+    "title_02_03": "2.3 Cookies",
+    "content_02_03": "Our website uses cookies. Cookies are small text files stored on your device by your browser. They help facilitate the use of our website and enable certain features. We use session cookies on our website. These cookies are automatically deleted when you close your browser. We use statistics cookies on our website. These cookies help us analyze and improve the use of our website. They collect anonymous data, such as the number of visitors, the pages visited, and the time spent on the website. You can disable cookies in your browser settings. However, please note that this may limit the functionality of our website.",
+    "title_03": "3. Data Sharing",
+    "content_03": "We do not share your personal data with third parties unless required by law or with your consent.",
+    "title_04": "4. Data Security",
+    "content_04": "We take appropriate technical and organizational measures to protect your personal data from unauthorized access, loss, destruction, alteration, or unauthorized disclosure.",
+    "title_05": "5. Your Rights",
+    "content_05": "You have the right to access your stored personal data, to rectify inaccurate data, to delete your data, to restrict the processing of your data, to object to the processing of your data, and to data portability.",
+    "title_06": "6. Links to Other Websites",
+    "content_06": "Our website may contain links to other websites. This Privacy Policy applies only to our website. We have no control over how your data is collected and used on other websites. Please refer to the respective privacy policies of other websites.",
+    "title_07": "7. Privacy Policy Updates",
+    "content_07": "We reserve the right to update this Privacy Policy at any time. The update will be published on our website.",
+    "last_update": "Last updated: February 10, 2024",
+    "buttonUnderstandPolicy": "Accept and understand policy"
+  }
+}

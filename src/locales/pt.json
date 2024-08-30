@@ -1,0 +1,183 @@
+{
+  "header": {
+    "title": "AZ Machinery - Qualidade Francesa",
+    "home": "Início",
+    "about": "Sobre nós",
+    "contact": "Contato",
+    "features": "Recursos",
+    "gallery": "Galeria",
+    "counts": "Dados"
+  },
+  "hero": {
+    "title": {
+      "start": "Carregando tecnologia para suas ",
+      "end": "necessidades"
+    },
+    "box": {
+      "title": "Obtenha cotações para rampas",
+      "choices": {
+        "choice_ramp": "Escolha das rampas",
+        "choice_platform": "Escolha das plataformas",
+        "choice_measurement": "Sob medida"
+      },
+      "button": "CONTINUAR",
+      "badges": {
+        "approx_time": "aprox. 2 min.",
+        "reviews": "4,9 estrelas de 55 avaliações",
+        "last_requests_one": "Últimas solicitações ",
+        "last_requests_two": " min. atrás",
+        "requests_today": "236 solicitações hoje"
+      },
+      "error_message": "Por favor, selecione pelo menos uma opção"
+    }
+  },
+  "modal": {
+    "title": "Complete suas informações",
+    "close-button": "Fechar"
+  },
+  "about": {
+    "title": "AZ Machinery, seu parceiro confiável em tecnologia de carregamento",
+    "description": "AZ Machinery é o principal fabricante de equipamentos de carregamento na Europa. Oferecemos uma ampla gama de rampas de carregamento, plataformas, armazenamento e acessórios para atender a todas as necessidades.",
+    "box1Title": "Seu especialista em soluções de carregamento personalizadas",
+    "box1Description": "Oferecemos uma ampla gama de soluções de carregamento que personalizamos individualmente de acordo com suas necessidades. Seja rampas de carregamento, plataformas, armazenamento ou acessórios, encontraremos a solução perfeita para você.",
+    "box2Title": "Nossos produtos são fabricados em nossa própria produção na Europa",
+    "box2Description": "Damos grande importância à segurança e eficiência, para que você possa carregar e descarregar seus produtos com segurança e eficiência.",
+    "box3Title": "Entrega em toda a Europa",
+    "box3Description": "Entregamos nossos produtos em toda a Europa e oferecemos um serviço completo. Nossos especialistas terão prazer em aconselhá-lo e encontrar a solução ideal para suas necessidades."
+  },
+  "features": {
+    "title": "Nossas rampas de carregamento - o número 1 incontestável na Europa.",
+    "subTitle": "Competitivo",
+    "box1Title": "Entrega rápida",
+    "box2Title": "Valor pelo seu dinheiro",
+    "box3Title": "Resposta rápida",
+    "box4Title": "Ligas limpas",
+    "box5Title": "Possibilidade de aluguel",
+    "box6Title": "Equipe profissional",
+    "box7Title": "Ampla escolha",
+    "box8Title": "Melhor qualidade"
+  },
+  "gallery": {
+    "title": "Campeão de alcance",
+    "subTitle": "Deixe nossa seleção surpreendê-lo"
+  },
+  "count": {
+    "title1": "Clientes satisfeitos",
+    "title2": "Projetos em andamento",
+    "title3": "Anos de experiência",
+    "title4": "Funcionários"
+  },
+  "contact": {
+    "title": "Contato regional",
+    "subTitle": "Aconselhamento e suporte pessoal",
+    "label": {
+      "place": "Localização:",
+      "phone": "Fone:",
+      "email": "E-mail:"
+    },
+    "address": "Avenida da Liberdade 186, 1250-102 Lisboa, Portugal",
+    "email": "Marketing Portugal",
+    "number": "+351 21 359 22 00",
+    "form": {
+      "label": {
+        "place": "Local",
+        "phone": "Telefone",
+        "email": "E-mail"
+      },
+      "placeholder": {
+        "name": "Seu nome",
+        "email": "Seu e-mail",
+        "subject": "Assunto",
+        "message": "Mensagem",
+        "send": "Enviar mensagem"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Direitos autorais © 2024 AZ Machinery. Todos os direitos reservados.",
+    "headquarter": {
+      "name": "AZ Machinery",
+      "title": "Sede",
+      "description": "Especializamo-nos no desenvolvimento, fabrico, venda e aluguer de equipamentos de carga.",
+      "address": {
+        "street": "13 rue de la scierie ",
+        "zip": "66340 Palau de cerdagne, ",
+        "country": "França",
+        "phoneLabel": "Telefone: ",
+        "phone": "+33 03 52 74 03 69",
+        "emailLabel": "E-mail: ",
+        "email": "contact[at]az-machinery.com"
+      }
+    },
+    "links": {
+      "title": "Links",
+      "about": "Sobre",
+      "features": "Recursos",
+      "imprint": "Impressão",
+      "privacy": "Privacidade"
+    },
+    "service": {
+      "title": "Nossos serviços",
+      "customMade": "Feito sob medida",
+      "delivery": "Toda a Europa",
+      "production": "Produção própria",
+      "warranty": "Garantia de 5 anos",
+      "rental": "Aluguel possível"
+    },
+    "newsletter": {
+      "title": "Inscreva-se em nossa newsletter.",
+      "description": "Fique informado sobre nossos últimos produtos, ofertas e eventos.",
+      "button": "Inscrever"
+    }
+  },
+  "cookiebanner": {
+    "title": "Mas primeiro, os cookies!",
+    "description": "Utilizamos cookies para lembrar suas preferências, mostrar conteúdo relevante e tornar sua experiência na AZ Machinery mais fluida. Ao utilizar a AZ Machinery, você aceita nossa ",
+    "policyLink": "Política de Privacidade.",
+    "policyLinkAdon": "",
+    "buttonAllow": "Permitir todos",
+    "buttonDisallow": "Recusar todos",
+    "buttonManageCookies": "Gerenciar cookies",
+    "manage": {
+      "title": "Configurações de cookies",
+      "necessary_title": "Necessários",
+      "necessary_description": "Cookies necessários garantem funções básicas do site, como navegação e acesso a áreas seguras.",
+      "preferences_title": "Preferências",
+      "preferences_description": "Cookies de preferência lembram informações que afetam o comportamento do site, como idioma ou região.",
+      "statistics_title": "Estatísticas",
+      "statistics_description": "Cookies estatísticos coletam dados anonimamente para ajudar os proprietários do site a entender as interações dos visitantes.",
+      "marketing_title": "Marketing",
+      "marketing_description": "Cookies de marketing rastreiam visitantes do site para exibir anúncios relevantes e atraentes, úteis para editores e anunciantes.",
+      "buttonAllow": "Permitir todos os cookies",
+      "buttonDisallow": "Recusar todos os cookies",
+      "buttonAccept": "Aceitar configurações"
+    }
+  },
+  "policybanner": {
+    "title": "Política de Privacidade",
+    "title_01": "1. Empresa e responsável pela proteção de dados",
+    "content_01": "Esta Política de Privacidade se aplica ao site verladerampenprofi.de, operado pela AZ Machinery.",
+    "title_company_contact": "Contato da empresa",
+    "company_contact_data": "AZ MACHINERY FRANCE: 13 rue de la scierie - 66 340 PALAU DE CERDAGNE . França, Tel: (+33) 03 52 74 03 69, ID da empresa: 824 654 958 000 19, TVA: FR62 824 654 958 ",
+    "title_02": "2. Coleta e uso de dados",
+    "title_02_01": "2.1 Geral",
+    "content_02_01": "Coletamos e usamos dados pessoais apenas na medida necessária para fornecer um site funcional, nosso conteúdo e serviços, e para responder às dúvidas dos usuários.",
+    "title_02_02": "2.2Acessar dados/arquivos de log do servidor",
+    "content_02_02": "Quando você acessa nosso site, as informações são automaticamente armazenadas em arquivos de log do servidor, que seu navegador nos transmite. Esses dados incluem: (Tipo e versão do navegador, Sistema operacional usado, URL de referência (página visitada anteriormente), Nome do host do computador de acesso (por exemplo, seu endereço IP), hora da solicitação do servidor)",
+    "content_02_02_addon": "Estes dados não são usados ​​para identificar indivíduos, mas apenas para fins estatísticos para analisar e melhorar o uso do nosso site.",
+    "title_02_03": "2.3 Cookies",
+    "content_02_03": "Nosso site usa cookies. Cookies são pequenos arquivos de texto armazenados em seu dispositivo pelo seu navegador. Eles ajudam a facilitar o uso de nosso site e permitem certos recursos. Usamos cookies de sessão em nosso site. Esses cookies são excluídos automaticamente quando você fecha seu navegador. Usamos cookies de estatísticas em nosso site. Esses cookies nos ajudam a analisar e melhorar o uso de nosso site. Eles coletam dados anônimos, como o número de visitantes, as páginas visitadas e o tempo gasto no site. Você pode desativar os cookies nas configurações do seu navegador. No entanto, observe que isso pode limitar a funcionalidade do nosso site.",
+    "title_03": "3. Compartilhamento de dados",
+    "content_03": "Não compartilhamos seus dados pessoais com terceiros, a menos que exigido por lei ou com seu consentimento.",
+    "title_04": "4. Segurança de Dados",
+    "content_04": "Tomamos medidas técnicas e organizacionais apropriadas para proteger seus dados pessoais contra acesso não autorizado, perda, destruição, alteração ou divulgação não autorizada.",
+    "title_05": "5. Seus direitos",
+    "content_05": "Você tem o direito de acessar seus dados pessoais armazenados, de retificar dados imprecisos, de excluir seus dados, de restringir o processamento de seus dados, de se opor ao processamento de seus dados e à portabilidade de dados.",
+    "title_06": "6. Links para outros sites",
+    "content_06": "Nosso site pode conter links para outros sites. Esta Política de Privacidade se aplica apenas ao nosso site. Não temos controle sobre como seus dados são coletados e usados ​​em outros sites. Consulte as respectivas políticas de privacidade de outros sites. ",
+    "title_07": "7. Atualizações da Política de Privacidade",
+    "content_07": "Reservamo-nos o direito de atualizar esta Política de Privacidade a qualquer momento. A atualização será publicada em nosso site.",
+    "last_update": "Última atualização: 10 de fevereiro de 2024",
+    "buttonUnderstandPolicy": "Aceitar e compreender a política"
+  }
+}

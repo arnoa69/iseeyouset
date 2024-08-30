@@ -1,0 +1,183 @@
+{
+  "header": {
+    "title": "AZ Machinery - Ranskalainen laatu",
+    "home": "Koti",
+    "about": "Tietoa",
+    "contact": "Yhteystiedot",
+    "features": "Tiedot",
+    "gallery": "Galleria",
+    "counts": "Tiedot"
+  },
+  "hero": {
+    "title": {
+      "start": "Ladataan teknologiaa ",
+      "end": "tarpeisiisi"
+    },
+    "box": {
+      "title": "Hanki tarjouksia rampeille",
+      "choices": {
+        "choice_ramp": "Valitse ramppityyppi",
+        "choice_platform": "Valitse alustat",
+        "choice_measurement": "Mittatilaustyönä"
+      },
+      "button": "JATKA",
+      "badges": {
+        "approx_time": "noin 2 min.",
+        "reviews": "4,9 tähteä 55 arvostelusta",
+        "last_requests_one": "Viimeisimmät pyynnöt ",
+        "last_requests_two": " min sitten",
+        "requests_today": "236 pyyntöä tänään"
+      },
+      "error_message": "Valitse vähintään yksi vaihtoehto"
+    }
+  },
+  "modal": {
+    "title": "Täydennä tietosi",
+    "close-button": "Poistu"
+  },
+  "about": {
+    "title": "AZ Machinery - Luotettava kumppanisi lastausteknologiassa",
+    "description": "AZ Machinery on johtava lastaustekniikan valmistaja Euroopassa. Tarjoamme laajan valikoiman lastaussiltoja, tasoja, varastointia ja tarvikkeita, jotka vastaavat kaikkiin tarpeisiin.",
+    "box1Title": "Asiantuntijasi yksilöllisissä lastausratkaisuissa",
+    "box1Description": "Tarjoamme laajan valikoiman lastausratkaisuja, joita räätälöimme yksilöllisesti asiakkaan tarpeisiin. Olipa kyseessä lastaussillat, tasot, varastointi tai tarvikkeet, löydämme sinulle täydellisen ratkaisun.",
+    "box2Title": "Tuotteemme valmistetaan omassa tuotannossamme Euroopassa",
+    "box2Description": "Panostamme suuresti turvallisuuteen ja tehokkuuteen, jotta voit lastata ja purkaa tuotteesi turvallisesti ja tehokkaasti.",
+    "box3Title": "Toimitus koko Eurooppaan",
+    "box3Description": "Toimitamme tuotteitamme koko Eurooppaan ja tarjoamme kattavan palvelun. Asiantuntijamme ovat ilolla neuvomassa ja löytämässä optimaalisen ratkaisun tarpeisiisi."
+  },
+  "features": {
+    "title": "Tutustu kaikkiin etuihin",
+    "subTitle": "Tuotetiedot",
+    "box1Title": "Nopeat toimitukset",
+    "box2Title": "Hintansa arvoinen",
+    "box3Title": "Nopea vastausaika",
+    "box4Title": "Omat seokset",
+    "box5Title": "Vuokraus mahdollista",
+    "box6Title": "Ammattitaitoinen henkilöstö",
+    "box7Title": "Laajin valikoima",
+    "box8Title": "Paras laatu"
+  },
+  "gallery": {
+    "title": "Range-mestari",
+    "subTitle": "Anna valikoimamme yllättää sinut"
+  },
+  "count": {
+    "title1": "Tyytyväistä asiakasta",
+    "title2": "Käynnissä olevaa projektia",
+    "title3": "Vuoden kokemus",
+    "title4": "Työntekijää"
+  },
+  "contact": {
+    "title": "Alueellinen yhteyshenkilö",
+    "subTitle": "Henkilökohtaista neuvontaa ja tukea",
+    "label": {
+      "place": "Sijainti:",
+      "phone": "Puhelin:",
+      "email": "Sähköposti:"
+    },
+    "address": "Mannerheimintie 10, 00100 Helsinki, Suomi",
+    "email": "Suomi markkinointi",
+    "number": "+358 9 123 4567",
+    "form": {
+      "label": {
+        "place": "Paikka",
+        "phone": "Puhelin",
+        "email": "Sähköposti"
+      },
+      "placeholder": {
+        "name": "Sinun nimesi",
+        "email": "Sähköpostiosoitteesi",
+        "subject": "Aihe",
+        "message": "Viesti",
+        "send": "Lähetä viesti"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Tekijänoikeus © 2024 AZ Machinery. Kaikki oikeudet pidätetään.",
+    "headquarter": {
+      "name": "AZ Machinery",
+      "title": "Pääkonttori",
+      "description": "Olemme erikoistuneet lastauslaitteiden kehittämiseen, valmistukseen, myyntiin ja vuokraukseen.",
+      "address": {
+        "street": "13 rue de la scierie ",
+        "zip": "66340 Palau de cerdagne, ",
+        "country": "Ranska",
+        "phoneLabel": "Puhelin: ",
+        "phone": "+33 03 52 74 03 69",
+        "emailLabel": "Sähköposti: ",
+        "email": "contact[at]az-machinery.com"
+      }
+    },
+    "links": {
+      "title": "Linkit",
+      "about": "Tietoa",
+      "features": "Ominaisuudet",
+      "imprint": "Jälki",
+      "privacy": "Yksityisyys"
+    },
+    "service": {
+      "title": "Palvelumme",
+      "customMade": "Räätälöity",
+      "delivery": "Koko Eurooppa",
+      "production": "Oma tuotanto",
+      "warranty": "5 vuoden takuu",
+      "rental": "Vuokraus mahdollista"
+    },
+    "newsletter": {
+      "title": "Tilaa uutiskirjeemme.",
+      "description": "Pysy ajan tasalla uusimmista tuotteistamme, tarjouksistamme ja tapahtumistamme.",
+      "button": "Tilaa"
+    }
+  },
+  "cookiebanner": {
+    "title": "Mutta ensin evästeet!",
+    "description": "Käytämme evästeitä muistaaksemme mieltymyksesi, näyttääksemme sinulle relevanttia sisältöä ja tehdäksemme AZ Machinery-kokemuksestasi sujuvamman. Käyttämällä AZ Machineryä hyväksyt ",
+    "policyLink": "evästepolitiikkamme.",
+    "policyLinkAdon": "",
+    "buttonAllow": "Hyväksy kaikki",
+    "buttonDisallow": "Hylkää kaikki",
+    "buttonManageCookies": "Hallinnoi evästeitä",
+    "manage": {
+      "title": "Evästeasetukset",
+      "necessary_title": "Välttämättömät",
+      "necessary_description": "Välttämättömät evästeet varmistavat perustoimintojen, kuten navigoinnin ja turvallisuuskäytön, toiminnan.",
+      "preferences_title": "Mieltymykset",
+      "preferences_description": "Mieltymykset evästeet muistavat sivuston käyttäytymistä koskevia tietoja, kuten kieli tai alue.",
+      "statistics_title": "Tilastot",
+      "statistics_description": "Tilasto evästeet keräävät anonyymisti tietoja auttaakseen verkkosivuston omistajia ymmärtämään vierailijoiden vuorovaikutuksia.",
+      "marketing_title": "Markkinointi",
+      "marketing_description": "Markkinointievästeet seuraavat verkkosivuston vierailijoita näyttääkseen relevantteja ja houkuttelevia mainoksia, jotka ovat arvokkaita julkaisijoille ja mainostajille.",
+      "buttonAllow": "Hyväksy kaikki evästeet",
+      "buttonDisallow": "Hylkää kaikki evästeet",
+      "buttonAccept": "Hyväksy asetukset"
+    }
+  },
+  "policybanner": {
+    "title": "Tietosuojakäytäntö",
+    "title_01": "1. Yritys ja tietosuojavastaava",
+    "content_01": "Tämä tietosuojakäytäntö koskee verkkosivustoa verladerampenprofi.de, jota operoi AZ Machinery.",
+    "title_company_contact": "Yrityksen yhteystiedot",
+    "company_contact_data": "AZ MACHINERY FRANCE: 13 rue de la scierie - 66 340 PALAU DE CERDAGNE. Ranska, Puh: (+33) 03 52 74 03 69, Yrityksen tunnus: 824 654 958 000 19, TVA: FR62 824 654 958",
+    "title_02": "2. Tietojen keruu ja käyttö",
+    "title_02_01": "2.1 Yleistä",
+    "content_02_01": "Keräämme ja käytämme henkilötietoja vain siinä laajuudessa, kuin on tarpeen toimivan verkkosivuston, sisältömme ja palveluidemme tarjoamiseen sekä käyttäjien kyselyihin vastaamiseen.",
+    "title_02_02": "2.2 Pääsydata/Palvelimen lokitiedostot",
+    "content_02_02": "Kun käytät verkkosivustoamme, tietoja tallennetaan automaattisesti palvelimen lokitiedostoihin, jotka selaimenne välittää meille. Nämä tiedot sisältävät: (Selaimen tyyppi ja versio, Käytetty käyttöjärjestelmä, Uudelleenohjaus-URL (aiemmin vierailtu sivu), Palvelimen lähdeosoite (esim. IP-osoitteesi), Palvelimen pyynnön aika)",
+    "content_02_02_addon": "Näitä tietoja ei käytetä yksilöiden tunnistamiseen, vaan ainoastaan tilastollisiin tarkoituksiin verkkosivustomme käytön analysoimiseksi ja parantamiseksi.",
+    "title_02_03": "2.3 Evästeet",
+    "content_02_03": "Verkkosivustomme käyttää evästeitä. Evästeet ovat pieniä tekstitiedostoja, jotka selaimenne tallentaa laitteeseenne. Ne auttavat helpottamaan verkkosivustomme käyttöä ja mahdollistavat tiettyjä toimintoja. Käytämme istuntoevästeitä verkkosivustollamme. Nämä evästeet poistetaan automaattisesti, kun suljet selaimen. Käytämme tilastollisia evästeitä verkkosivustollamme. Nämä evästeet auttavat meitä analysoimaan ja parantamaan verkkosivustomme käyttöä. Ne keräävät anonyymejä tietoja, kuten vierailijoiden määrän, vieraillut sivut ja sivustolla vietetyn ajan. Voit poistaa evästeet käytöstä selaimen asetuksista. Huomaa kuitenkin, että tämä saattaa rajoittaa verkkosivustomme toiminnallisuutta.",
+    "title_03": "3. Tietojen jakaminen",
+    "content_03": "Emme jaa henkilötietojasi kolmansille osapuolille, ellei laki sitä vaadi tai sinun suostumuksellasi.",
+    "title_04": "4. Tietoturva",
+    "content_04": "Otamme asianmukaiset tekniset ja organisatoriset toimenpiteet suojataksemme henkilötietosi luvattomalta pääsyltä, häviämiseltä, tuhoutumiselta, muuttamiselta tai luvattomalta paljastamiselta.",
+    "title_05": "5. Oikeutesi",
+    "content_05": "Sinulla on oikeus saada pääsy tallennettuihin henkilötietoihisi, korjata virheelliset tiedot, poistaa tietosi, rajoittaa tietojesi käsittelyä, vastustaa tietojesi käsittelyä ja siirtää tietosi.",
+    "title_06": "6. Linkit muihin verkkosivustoihin",
+    "content_06": "Verkkosivustomme saattaa sisältää linkkejä muihin verkkosivustoihin. Tämä tietosuojakäytäntö koskee ainoastaan ​​verkkosivustoamme. Emme voi vaikuttaa siihen, miten tietojasi kerätään ja käytetään muilla verkkosivustoilla. Tutustu muiden verkkosivustojen asiaankuuluviin tietosuojakäytäntöihin.",
+    "title_07": "7. Tietosuojakäytännön päivitykset",
+    "content_07": "Pidätämme oikeuden päivittää tätä tietosuojakäytäntöä milloin tahansa. Päivitys julkaistaan verkkosivustollamme.",
+    "last_update": "Viimeisin päivitys: 10. helmikuuta 2024",
+    "buttonUnderstandPolicy": "Hyväksy ja ymmärrä käytäntö"
+  }
+}

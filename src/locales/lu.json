@@ -1,0 +1,183 @@
+{
+  "header": {
+    "title": "AZ Maschinnen - Franséisch Qualitéit",
+    "home": "Doheem",
+    "about": "Iwwer",
+    "contact": "Kontakt",
+    "features": "Fakten",
+    "gallery": "Galerie",
+    "counts": "Fakten"
+  },
+  "hero": {
+    "title": {
+      "start": "Caricamento della tecnologia pro le tue",
+      "end": "Noutwendegkeet"
+    },
+    "box": {
+      "title": "Préventioun vun der Ramp",
+      "choices": {
+        "choice_ramp": "Stierflech rampe",
+        "choice_platform": "Scelta delle piattaforme",
+        "choice_measurement": "Déi falsch"
+      },
+      "button": "CONTINUA",
+      "badges": {
+        "approx_time": "ongeféier 2 min.",
+        "reviews": "4,9 stelle bis 55 Kritik",
+        "last_requests_one": "Ultime räichste",
+        "last_requests_two": "min. fa",
+        "requests_today": "236 räichste oggi"
+      },
+      "error_message": "Dir kënnt d'Selezionare vun der Optioun un"
+    }
+  },
+  "modal": {
+    "title": "Komplett d'Informatioun vum Dënschdeg",
+    "close-button": "Esci"
+  },
+  "about": {
+    "title": "AZ Maschinnen Ären zouverléissege Partner fir Luede Technologie",
+    "description": "AZ Machinery ass de féierende Hiersteller vu Luedegeräter an Europa. Mir bidden eng ëmfaassend Palette vu Luede Rampen, Plattformen, Lager- an Uschlossausrüstung fir all Ufuerderungen ze passen.",
+    "box1Title": "Äre Spezialist fir individuell Ladeléisungen",
+    "box1Description": "Mir bidden Iech eng ëmfaassend Auswiel u Luedeléisungen, déi mir individuell un Är Bedierfnesser upassen. Ob Luede Rampen, Plattformen, Lagerung oder Befestigungsausrüstung - mir fannen déi perfekt Léisung fir Iech.",
+    "box2Title": "Eis Produkter ginn an eiser eegener Produktioun an Europa hiergestallt",
+    "box2Description": "Mir leeë vill Wäert op Sécherheet an Effizienz, fir datt Dir Är Wueren sécher an effizient lueden an ausluede kënnt.",
+    "box3Title": "Liwwerung duerch ganz Europa",
+    "box3Description": "Mir liwweren eis Produkter a ganz Europa a bidden en ëmfaassenden Service un. Eis Experten beroden Iech gären an fannen déi optimal Léisung fir Är Besoinen."
+  },
+  "features": {
+    "title": "Eis Luede Rampen - déi onbestridden Nummer 1 an Europa.",
+    "subTitle": "Kompetitiv",
+    "box1Title": "Schnell Liwwerung",
+    "box2Title": "De Präis wäert",
+    "box3Title": "Schnell Äntwert",
+    "box4Title": "Eegen Alliagen",
+    "box5Title": "Loyer méiglech",
+    "box6Title": "Professionell Equipe",
+    "box7Title": "Gréisst Auswiel",
+    "box8Title": "Bescht Qualitéit"
+  },
+  "gallery": {
+    "title": "Range Champion",
+    "subTitle": "Loosst eis Auswiel Iech iwwerraschen"
+  },
+  "count": {
+    "title1": "Zefridden Clienten",
+    "title2": "Laufend Projeten",
+    "title3": "Joer Erfahrung",
+    "title4": "Employé"
+  },
+  "contact": {
+    "title": "Regionale Kontakt",
+    "subTitle": "Perséinlech Berodung an Ënnerstëtzung",
+    "label": {
+      "place": "Plaz:",
+      "phone": "Telefon:",
+      "email": "E-mail:"
+    },
+    "address": "Rue du Fossé, 15, 4301 Esch-sur-Alzette, Luxembourg",
+    "email": "Marketing Luxembourg",
+    "number": "+352 43 55 55 55",
+    "form": {
+      "label": {
+        "place": "Plaz",
+        "phone": "Telefon",
+        "email": "E-Mail"
+      },
+      "placeholder": {
+        "name": "Ären Numm",
+        "email": "Är E-Mail",
+        "subject": "Sujet",
+        "message": "Message",
+        "send": "Schécken Message"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Copyright © 2024 AZ Machinery. All Rechter reservéiert.",
+    "headquarter": {
+      "name": "AZ Maschinnen",
+      "title": "Sëtz",
+      "description": "Mir spezialiséiert op d'Entwécklung, d'Fabrikatioun, de Verkaf an d'Verlounen vun Luedegeräter.",
+      "address": {
+        "street": "13 rue de la scierie",
+        "zip": "66340 Palau de Cerdagne, ",
+        "country": "Frankräich",
+        "phoneLabel": "Telefon: ",
+        "phone": "+33 03 52 74 03 69",
+        "emailLabel": "E-Mail: ",
+        "email": "Kontakt[at]az-machinery.com"
+      }
+    },
+    "links": {
+      "title": "Links",
+      "about": "Iwwer",
+      "features": "Features",
+      "imprint": "Ofdréck",
+      "privacy": "Schutz"
+    },
+    "service": {
+      "title": "Eis Servicer",
+      "customMade": "Custom Made",
+      "delivery": "Ganz Europa",
+      "production": "Eegen Produktioun",
+      "warranty": "5 Joer Garantie",
+      "rental": "Verlounen méiglech"
+    },
+    "newsletter": {
+      "title": "Abonnéiert Iech op eisen Newsletter.",
+      "description": "Bleift informéiert iwwer eis lescht Produkter, Offeren an Eventer.",
+      "button": "Abonnéieren"
+    }
+  },
+  "cookiebanner": {
+    "title": "Awer éischt, Cookien!",
+    "description": "Mir setzen Cookien an, fir Är Präferenzen ze behalen, Iech relevanten Inhalt ze weisen an Är AZ Machinery Erfahrung méi flësseleg ze maachen. Duerch d'Benotze vu AZ Machinery akzeptéiert Dir eis ",
+    "policyLink": "Privatsphär Politik.",
+    "policyLinkAdon": "",
+    "buttonAllow": "Zouginn",
+    "buttonDisallow": "Ofwiessen",
+    "buttonManageCookies": "Cookien administréieren",
+    "manage": {
+      "title": "Cookiéischtellungen",
+      "necessary_title": "Noutwendeg",
+      "necessary_description": "Noutwendeg Cookien garantéieren Grondfunktiounen vum Websäit, wéi Navigatioun an den Zougrëff op d'Sécherheet.",
+      "preferences_title": "Präferenzen",
+      "preferences_description": "Präferenzcookien erënneren un Donnéen, déi d'Verhalen vum Websäit beeënflussen, wéi d'Sprooch oder d'Regioun.",
+      "statistics_title": "Statistiken",
+      "statistics_description": "Statistikcookien sammelen anonym Donnéen fir den Websäitebesëtzer ze hëllefen, d'Interaktiounen vun de Visiteuren ze verstoen.",
+      "marketing_title": "Marketing",
+      "marketing_description": "Marketingcookien verfollegen d'Besucher vun der Websäit fir relevante, attraktiv Annoncen ze weisen, déi wäertvoll fir Erausginn a Publiciteitsmaacher sinn.",
+      "buttonAllow": "All Cookien zouginn",
+      "buttonDisallow": "All Cookien ofwiessen",
+      "buttonAccept": "Astellungen akzeptéieren"
+    }
+  },
+  "policybanner": {
+    "title": "Privatsphär Politik",
+    "title_01": "1. Firmen- an Dateschutzbeamten",
+    "content_01": "Dës Dateschutzpolitik gëllt fir d'Websäit verladerampenprofi.de, bedriwwe vun AZ Machinery.",
+    "title_company_contact": "Kontakt vun der Firma",
+    "company_contact_data": "AZ MACHINERY FRANCE: 13 rue de la scierie - 66 340 PALAU DE CERDAGNE . Frankräich, Tel : (+33) 03 52 74 03 69, Firma ID : 824 654 958 6 000 5 000 8 FR 429 ",
+    "title_02": "2. Datesammlung a Gebrauch",
+    "title_02_01": "2.1 Allgemeng",
+    "content_02_01": "Mir sammelen a benotzen perséinlech Donnéeën nëmmen am Mooss néideg fir eng funktionell Websäit, eisen Inhalt a Servicer ze bidden, an d'Ufro vun de Benotzer ze beäntweren.",
+    "title_02_02": "2.2Zougang zu Daten/Server Log Dateien",
+    "content_02_02": "Wann Dir op eis Websäit zougräift, gëtt d'Informatioun automatesch an de Serverlogdateien gespäichert, déi Äre Browser un eis iwwerdréit. Dës Donnéeën enthalen: (Browsertyp a Versioun, benotzte Betribssystem, Referrer URL (virdrun besicht Säit), Hostnumm vum Zougangscomputer (z.B. Är IP Adress), Zäit vun der Serverufro)",
+    "content_02_02_addon": "Dës Donnéeë ginn net benotzt fir Individuen z'identifizéieren, awer nëmme fir statistesch Zwecker fir d'Benotzung vun eiser Websäit ze analyséieren an ze verbesseren.",
+    "title_02_03": "2.3 Cookien",
+    "content_02_03": "Eis Websäit benotzt Cookien. Cookien si kleng Textdateien, déi vun Ärem Browser op Ärem Apparat gespäichert sinn. Si hëllefen d'Benotzung vun eiser Websäit ze erliichteren a verschidde Funktiounen z'erméiglechen. Mir benotzen Sessiouns-Cookien op eiser Websäit. Dës Cookien ginn automatesch geläscht wann Dir maacht Äre Browser zou Mir benotze Statistike Cookien op eiser Websäit Dës Cookien hëllefen eis d'Benotzung vun eiser Websäit ze analyséieren an ze verbesseren. Si sammelen anonym Donnéeën, wéi d'Zuel vun de Besucher, d'Säiten besicht an d'Zäit déi op der Websäit verbruecht gëtt. Dir kënnt d'Cookien an Äre Browser-Astellungen ausschalten, awer notéiert w.e.g. datt dëst d'Funktionalitéit vun eiser Websäit limitéiere kann.",
+    "title_03": "3. Datendeelen",
+    "content_03": "Mir deelen Är perséinlech Donnéeën net mat Drëtte, ausser wann et vum Gesetz verlaangt oder mat Ärer Zoustëmmung.",
+    "title_04": "4. Datesécherheet",
+    "content_04": "Mir huelen entspriechend technesch an organisatoresch Moossname fir Är perséinlech Donnéeën virum onerlaabten Zougang, Verloscht, Zerstéierung, Ännerung oder onerlaabten Offenbarung ze schützen.",
+    "title_05": "5. Är Rechter",
+    "content_05": "Dir hutt d'Recht op Accès op Är gespäichert perséinlech Donnéeën ze kréien, ongenau Donnéeën ze korrigéieren, Är Donnéeën ze läschen, d'Veraarbechtung vun Ären Donnéeën ze beschränken, géint d'Veraarbechtung vun Ären Donnéeën ze protestéieren an d'Datenportabilitéit.",
+    "title_06": "6. Linken op aner Websäiten",
+    "content_06": "Eis Websäit kann Linken op aner Websäite enthalen. Dës Dateschutzpolitik gëllt nëmme fir eis Websäit. Mir hu keng Kontroll iwwer wéi Är Donnéeën op anere Websäite gesammelt a benotzt ginn. Weg kuckt op déi jeweileg Privatsphär Politiken vun anere Websäiten. ",
+    "title_07": "7. Dateschutzpolitik Updates",
+    "content_07": "Mir behaalen eis d'Recht dës Dateschutzpolitik zu all Moment ze aktualiséieren. D'Aktualiséierung gëtt op eiser Websäit publizéiert.",
+    "last_update": "Lescht aktualiséiert: 10. Februar 2024",
+    "buttonUnderstandPolicy": "Politik akzeptéieren a verstoen"
+  }
+}

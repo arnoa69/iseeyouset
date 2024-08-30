@@ -1,0 +1,154 @@
+{
+  "header": {
+    "title": "AZ Machinery - Fransk kvalitet",
+    "home": "Hjem",
+    "about": "Om oss",
+    "contact": "Kontakt",
+    "features": "Funksjoner",
+    "gallery": "Galleri",
+    "counts": "Data"
+  },
+  "hero": {
+    "title": {
+      "start": "Laster teknologi for dine ",
+      "end": "behov"
+    },
+    "box": {
+      "title": "Få tilbud for ramper",
+      "choices": {
+        "choice_ramp": "Valg av ramper",
+        "choice_platform": "Valg av plattformer",
+        "choice_measurement": "Tilpasset måling"
+      },
+      "button": "FORTSETT",
+      "badges": {
+        "approx_time": "ca. 2 min.",
+        "reviews": "4,9 stjerner fra 55 anmeldelser",
+        "last_requests_one": "Siste forespørsler ",
+        "last_requests_two": " min. siden",
+        "requests_today": "236 forespørsler i dag"
+      },
+      "error_message": "Vennligst velg minst ett alternativ"
+    }
+  },
+  "modal": {
+    "title": "Fyll ut dine opplysninger",
+    "close-button": "Lukk"
+  },
+  "about": {
+    "title": "AZ Machinery, din pålitelige partner for lasteteknologi",
+    "description": "AZ Machinery er den ledende produsenten av lasteutstyr i Europa. Vi tilbyr et bredt utvalg av lasteramper, plattformer, lagring og tilbehør for å imøtekomme alle behov.",
+    "box1Title": "Din spesialist på skreddersydde lasteløsninger",
+    "box1Description": "Vi tilbyr et bredt utvalg av lasteløsninger som vi tilpasser individuelt til dine behov. Enten det er lasteramper, plattformer, lagring eller tilbehør, vil vi finne den perfekte løsningen for deg.",
+    "box2Title": "Våre produkter produseres i vår egen produksjon i Europa",
+    "box2Description": "Vi legger stor vekt på sikkerhet og effektivitet, slik at du trygt og effektivt kan laste og losse produktene dine.",
+    "box3Title": "Levering over hele Europa",
+    "box3Description": "Vi leverer produktene våre over hele Europa og tilbyr en komplett service. Våre eksperter vil gjerne gi deg råd og finne den optimale løsningen for dine behov."
+  },
+  "features": {
+    "title": "Våre lasteramper - den ubestridte nummer 1 i Europa.",
+    "subTitle": "Konkurransedyktig",
+    "box1Title": "Rask levering",
+    "box2Title": "Verdi for pengene",
+    "box3Title": "Rask respons",
+    "box4Title": "Rene legeringer",
+    "box5Title": "Mulighet for utleie",
+    "box6Title": "Profesjonelt personale",
+    "box7Title": "Stort utvalg",
+    "box8Title": "Beste kvalitet"
+  },
+  "gallery": {
+    "title": "Range mester",
+    "subTitle": "La vårt utvalg overraske deg"
+  },
+  "count": {
+    "title1": "Fornøyde kunder",
+    "title2": "Pågående prosjekter",
+    "title3": "Års erfaring",
+    "title4": "Ansatte"
+  },
+  "contact": {
+    "title": "Regional kontakt",
+    "subTitle": "Personlig råd og støtte",
+    "label": {
+      "place": "Sted:",
+      "phone": "Ring:",
+      "email": "E-post:"
+    },
+    "address": "Karl Johans gate 23, 0159 Oslo, Norge",
+    "email": "Markedsføring Norge",
+    "number": "+47 22 12 34 56",
+    "form": {
+      "label": {
+        "place": "Sted",
+        "phone": "Telefon",
+        "email": "E-post"
+      },
+      "placeholder": {
+        "name": "Ditt navn",
+        "email": "Din e-post",
+        "subject": "Emne",
+        "message": "Melding",
+        "send": "Send melding"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Opphavsrett © 2024 AZ Machinery. Alle rettigheter reservert.",
+    "headquarter": {
+      "name": "AZ Machinery",
+      "title": "Hovedkontor",
+      "description": "Vi spesialiserer oss i utvikling, produksjon, salg og utleie av lasteutstyr.",
+      "address": {
+        "street": "13 rue de la scierie ",
+        "zip": "66340 Palau de cerdagne, ",
+        "country": "Frankrike",
+        "phoneLabel": "Telefon: ",
+        "phone": "+33 03 52 74 03 69",
+        "emailLabel": "E-post: ",
+        "email": "contact[at]az-machinery.com"
+      }
+    },
+    "links": {
+      "title": "Lenker",
+      "about": "Om",
+      "features": "Funksjoner",
+      "imprint": "Avtrykk",
+      "privacy": "Personvern"
+    },
+    "service": {
+      "title": "Våre tjenester",
+      "customMade": "Skreddersydd",
+      "delivery": "Hele Europa",
+      "production": "Egen produksjon",
+      "warranty": "5 års garanti",
+      "rental": "Leie mulig"
+    },
+    "newsletter": {
+      "title": "Abonner på nyhetsbrevet vårt.",
+      "description": "Hold deg informert om våre nyeste produkter, tilbud og arrangementer.",
+      "button": "Abonner"
+    }
+  },
+  "cookiebanner": {
+    "title": "Men først, informasjonskapsler!",
+    "description": "Vi bruker informasjonskapsler for å huske preferansene dine, vise relevant innhold og gjøre opplevelsen din på AZ Machinery mer sømløs. Ved å bruke AZ Machinery godtar du retningslinjene våre for informasjonskapsler.",
+    "buttonAllow": "Tillat",
+    "buttonDisallow": "Avvis",
+    "buttonManageCookies": "Administrer informasjonskapsler",
+    "manage": {
+      "title": "Informasjonskapselinnstillinger",
+      "necessary_title": "Nødvendige",
+      "necessary_description": "Nødvendige informasjonskapsler sikrer grunnleggende funksjonalitet på nettstedet, som navigasjon og tilgang til sikre områder.",
+      "preferences_title": "Preferanser",
+      "preferences_description": "Preferanseinformasjonskapsler husker informasjon som påvirker nettstedets atferd, som språk eller region.",
+      "statistics_title": "Statistikk",
+      "statistics_description": "Statistikk-informasjonskapsler samler inn anonyme data for å hjelpe eiere av nettsteder med å forstå besøkendes interaksjon.",
+      "marketing_title": "Markedsføring",
+      "marketing_description": "Markedsføringsinformasjonskapsler sporer nettstedbesøkende for å vise relevante og attraktive annonser som er verdifulle for utgivere og annonsører.",
+      "buttonAllow": "Tillat alle informasjonskapsler",
+      "buttonDisallow": "Avvis alle informasjonskapsler",
+      "buttonAccept": "Godta innstillinger"
+    }
+  }
+}

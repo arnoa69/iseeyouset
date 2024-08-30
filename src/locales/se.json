@@ -1,0 +1,183 @@
+{
+  "header": {
+    "title": "AZ Machinery - Fransk kvalitet",
+    "home": "Hem",
+    "about": "Om",
+    "contact": "Kontakt",
+    "features": "Fakta",
+    "gallery": "Galleri",
+    "counts": "Fakta"
+  },
+  "hero": {
+    "title": {
+      "start": "Laddar teknik för dina ",
+      "end": "behov"
+    },
+    "box": {
+      "title": "Få offerter för ramper",
+      "choices": {
+        "choice_ramp": "Val av ramper",
+        "choice_platform": "Val av plattformar",
+        "choice_measurement": "Specialanpassad"
+      },
+      "button": "FORTSÄTT",
+      "badges": {
+        "approx_time": "ca. 2 min.",
+        "reviews": "4,9 stjärnor av 55 recensioner",
+        "last_requests_one": "Senaste förfrågningar ",
+        "last_requests_two": " minuter sedan",
+        "requests_today": "236 förfrågningar idag"
+      },
+      "error_message": "Vänligen välj minst ett alternativ"
+    }
+  },
+  "modal": {
+    "title": "Komplettera dina uppgifter",
+    "close-button": "Lämna"
+  },
+  "about": {
+    "title": "AZ Machinery din pålitliga partner för lastningsteknik",
+    "description": "AZ Machinery är den ledande tillverkaren av lastutrustning i Europa. Vi erbjuder ett omfattande utbud av lastrampar, plattformar, förvaring och tillbehör för att passa alla krav.",
+    "box1Title": "Din specialist för individuella laddningslösningar",
+    "box1Description": "Vi erbjuder dig ett omfattande urval av lastlösningar som vi individuellt anpassar till dina behov. Oavsett om det är lastramper, plattformar, förvaring eller tillbehör - vi hittar den perfekta lösningen för dig.",
+    "box2Title": "Våra produkter tillverkas i vår egen produktion i Europa",
+    "box2Description": "Vi lägger stor vikt vid säkerhet och effektivitet så att du säkert och effektivt kan lasta och lossa dina varor.",
+    "box3Title": "Leverans i hela Europa",
+    "box3Description": "Vi levererar våra produkter i hela Europa och erbjuder en omfattande service. Våra experter kommer att vara glada att rådgöra med dig och hitta den optimala lösningen för dina behov."
+  },
+  "features": {
+    "title": "Våra lastramper - den obestridda nummer 1 i Europa.",
+    "subTitle": "Konkurrenskraftig",
+    "box1Title": "Snabb leverans",
+    "box2Title": "Värt priset",
+    "box3Title": "Snabbt svar",
+    "box4Title": "Egna legeringar",
+    "box5Title": "Uthyrning möjlig",
+    "box6Title": "Professionellt team",
+    "box7Title": "Största urvalet",
+    "box8Title": "Bästa kvalitet"
+  },
+  "gallery": {
+    "title": "Range mästare",
+    "subTitle": "Låt vårt urval överraska dig"
+  },
+  "count": {
+    "title1": "Nöjda kunder",
+    "title2": "Pågående projekt",
+    "title3": "Års erfarenhet",
+    "title4": "Anställd"
+  },
+  "contact": {
+    "title": "Regional kontakt",
+    "subTitle": "Personligt råd och stöd",
+    "label": {
+      "place": "Plats:",
+      "phone": "Ring:",
+      "email": "E-post:"
+    },
+    "address": "Kungsgatan 5, 111 22 Stockholm, Sverige",
+    "email": "Marknadsföring Sverige",
+    "number": "+46 8 123 4567",
+    "form": {
+      "label": {
+        "place": "Plats",
+        "phone": "Telefon",
+        "email": "E-post"
+      },
+      "placeholder": {
+        "name": "Ditt namn",
+        "email": "Din e-post",
+        "subject": "Ämne",
+        "message": "Meddelande",
+        "send": "Skicka meddelande"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Upphovsrätt © 2024 AZ Machinery. Alla rättigheter förbehållna.",
+    "headquarter": {
+      "name": "AZ Machinery",
+      "title": "Huvudkontor",
+      "description": "Vi är specialiserade på utveckling, tillverkning, försäljning och uthyrning av lastutrustning.",
+      "address": {
+        "street": "13 rue de la scierie ",
+        "zip": "66340 Palau de cerdagne, ",
+        "country": "Frankrike",
+        "phoneLabel": "Telefon: ",
+        "phone": "+33 03 52 74 03 69",
+        "emailLabel": "E-post: ",
+        "email": "contact[at]az-machinery.com"
+      }
+    },
+    "links": {
+      "title": "Länkar",
+      "about": "Om",
+      "features": "Funktioner",
+      "imprint": "Märke",
+      "privacy": "Skydd"
+    },
+    "service": {
+      "title": "Våra tjänster",
+      "customMade": "Anpassat",
+      "delivery": "Hela Europa",
+      "production": "Eegen produktion",
+      "warranty": "5 års garanti",
+      "rental": "Uthyrning möjlig"
+    },
+    "newsletter": {
+      "title": "Prenumerera på vårt nyhetsbrev.",
+      "description": "Håll dig informerad om våra senaste produkter, erbjudanden och evenemang.",
+      "button": "Prenumerera"
+    }
+  },
+  "cookiebanner": {
+    "title": "Men först, kakor!",
+    "description": "Vi använder kakor för att komma ihåg dina preferenser, visa relevant innehåll och göra din upplevelse på AZ Machinery smidigare. Genom att använda AZ Machinery godkänner du vår ",
+    "policyLink": "Integritetspolicy.",
+    "policyLinkAdon": "",
+    "buttonAllow": "Tillåt alla kakor",
+    "buttonDisallow": "Neka alla kakor",
+    "buttonManageCookies": "Hantera kakor",
+    "manage": {
+      "title": "Kakinställningar",
+      "necessary_title": "Nödvändiga",
+      "necessary_description": "Nödvändiga kakor säkerställer grundläggande funktioner på webbplatsen, som navigering och tillgång till säkra områden.",
+      "preferences_title": "Preferenser",
+      "preferences_description": "Kakor för preferenser kommer ihåg information som påverkar webbplatsens beteende, som språk eller region.",
+      "statistics_title": "Statistik",
+      "statistics_description": "Statistikkakor samlar in anonyma data för att hjälpa webbplatsägare att förstå besökarnas interaktion.",
+      "marketing_title": "Marknadsföring",
+      "marketing_description": "Marknadsföringskakor spårar webbplatsbesökare för att visa relevanta och attraktiva annonser som är värdefulla för utgivare och annonsörer.",
+      "buttonAllow": "Tillåt alla kakor",
+      "buttonDisallow": "Neka alla kakor",
+      "buttonAccept": "Acceptera inställningar"
+    }
+  },
+  "policybanner": {
+    "title": "Sekretesspolicy",
+    "title_01": "1. Företag och dataskyddsombud",
+    "content_01": "Denna sekretesspolicy gäller för webbplatsen verladerampenprofi.de, som drivs av AZ Machinery.",
+    "title_company_contact": "Företagskontakt",
+    "company_contact_data": "AZ MACHINERY FRANCE: 13 rue de la scierie - 66 340 PALAU DE CERDAGNE . Frankrike, Tel : (+33) 03 52 74 03 69, Företags-ID : 824 654 958 000 6 000 8 000 8 FR 42 9 ",
+    "title_02": "2. Datainsamling och användning",
+    "title_02_01": "2.1 Allmänt",
+    "content_02_01": "Vi samlar in och använder personuppgifter endast i den utsträckning det är nödvändigt för att tillhandahålla en fungerande webbplats, vårt innehåll och våra tjänster och för att svara på användarförfrågningar.",
+    "title_02_02": "2.2Åtkomst till data/serverloggfiler",
+    "content_02_02": "När du går in på vår webbplats lagras information automatiskt i serverloggfiler, som din webbläsare överför till oss. Dessa data inkluderar: (Webbläsartyp och version, Operativsystem som används, Referrer URL (tidigare besökt sida), Värdnamn på den åtkomstdator (t.ex. din IP-adress), tidpunkt för serverförfrågan)",
+    "content_02_02_addon": "Denna data används inte för att identifiera individer, utan endast för statistiska ändamål för att analysera och förbättra användningen av vår webbplats.",
+    "title_02_03": "2.3 Cookies",
+    "content_02_03": "Vår webbplats använder cookies. Cookies är små textfiler som lagras på din enhet av din webbläsare. De hjälper till att underlätta användningen av vår webbplats och möjliggör vissa funktioner. Vi använder sessionscookies på vår webbplats. Dessa cookies raderas automatiskt när du stänger din webbläsare. Vi använder statistikcookies på vår webbplats. Dessa cookies hjälper oss att analysera och förbättra användningen av vår webbplats. De samlar in anonym data, såsom antalet besökare, besökta sidor och den tid som spenderats på webbplatsen. Du kan inaktivera cookies i din webbläsarinställningar. Observera dock att detta kan begränsa funktionaliteten på vår webbplats.",
+    "title_03": "3. Datadelning",
+    "content_03": "Vi delar inte dina personuppgifter med tredje part om det inte krävs enligt lag eller med ditt samtycke.",
+    "title_04": "4. Datasäkerhet",
+    "content_04": "Vi vidtar lämpliga tekniska och organisatoriska åtgärder för att skydda dina personuppgifter från obehörig åtkomst, förlust, förstörelse, ändring eller obehörigt avslöjande.",
+    "title_05": "5. Dina rättigheter",
+    "content_05": "Du har rätt att få tillgång till dina lagrade personuppgifter, att korrigera felaktiga uppgifter, att radera dina uppgifter, att begränsa behandlingen av dina uppgifter, att invända mot behandlingen av dina uppgifter och mot dataportabilitet.",
+    "title_06": "6. Länkar till andra webbplatser",
+    "content_06": "Vår webbplats kan innehålla länkar till andra webbplatser. Denna integritetspolicy gäller endast vår webbplats. Vi har ingen kontroll över hur dina uppgifter samlas in och används på andra webbplatser. Se respektive integritetspolicy för andra webbplatser. ",
+    "title_07": "7. Uppdateringar av sekretesspolicy",
+    "content_07": "Vi förbehåller oss rätten att uppdatera denna integritetspolicy när som helst. Uppdateringen kommer att publiceras på vår webbplats.",
+    "last_update": "Senast uppdaterad: 10 februari 2024",
+    "buttonUnderstandPolicy": "Acceptera och förstå policy"
+  }
+}
